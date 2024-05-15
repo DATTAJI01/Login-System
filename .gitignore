@@ -1,0 +1,3 @@
+.venv/
+db.sqlite3
+Login_System/settings.py
